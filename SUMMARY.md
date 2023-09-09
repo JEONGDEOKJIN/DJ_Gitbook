@@ -10,4 +10,4 @@
 
 ## Group 1
 
-* [Page 1](group-1/page-1.md)
+* [Page 그룹은 없애지 말자 솔직히  1](group-1/page-1.md)
