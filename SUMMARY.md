@@ -10,12 +10,7 @@
 
 ## BlockChain
 
-* [Page 그룹은 없애지 말자 솔직히 1](blockchain/page-1.md)
 * [🖇 P2P 방식 코드 이해하기](blockchain/p2p.md)
-
-***
-
-* [Untitled](untitled.md)
 
 ## projects
 
