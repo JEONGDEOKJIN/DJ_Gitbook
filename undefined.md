@@ -1,24 +1,8 @@
-# Page 2
+# 지갑 생성 및 지갑 목록 보기
 
-***
 
-createDate : 2023-09-07
 
-publish : 벨로그 blogTitle : reduce 메소드 publishURL : postDate :
 
-tags : #javascript, #1차작성, #블록체인 , #blockchain
-
-***
-
-***
-
-createDate : 2023-09-07
-
-isPublished : publish : blogTitle : publishURL : postDate :
-
-tags : #블록체인
-
-***
 
 ## block.test.ts 에서 어떤 흐름으로 테스트하는지 이해 하기
 
@@ -124,7 +108,30 @@ privateKey 와 동일한지 여부를 판단할 수 있을 정도는 나온다.
 
     <figure><img src="https://i.imgur.com/r6bGJwN.png" alt=""><figcaption></figcaption></figure>
 
-## 그래서 정리하면,
+
+
+## ⭐⭐⭐그래서 정리하면,
+
+```bash
+- '지갑' 이란? 
+	- 나만의, 고유한 어떤 정보들을 담는 곳 ex) 돈, 신분증 등
+
+- 지금 이 블록체인 튜토리얼의 경우 '지갑' 이란? 
+	- 'name' 이라는 공간에는, '계좌 정보(account)' 를 담고, 
+	- 'content' 라는 공간에는, 'privateKey' 를 담아둠. 
+	- 하고 많은 데이터 중에서, 왜 이 2가지 데이터를, 그렇게 담았는지는, 아직 잘 모르겠음. 
+
+- 이 '지갑' 은 어떻게 만들어지는데? 
+	- 지갑은 '개인키' 에 의해 '공개키' 가 생성되고 -> 공개키에서 '26번째 인덱스' 부터의 값이 '지갑 주소'가 된다. -> 지갑 주소가 있으면 지갑이라는게 껍데기는 만들어진거다. 
+
+- 그럼, 지갑에 어떤 '내용' 을 채우나? 
+	- 이건 앞으로 좀 더 지켜봐야 할 것 같다.
+
+- 그럼, 이 '지갑' 이라는게 왜 필요한데?
+	- 이것도 지켜봐야 할 것 같다. 
+```
+
+
 
 
 

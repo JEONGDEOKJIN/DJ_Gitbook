@@ -32,4 +32,4 @@
 
 ***
 
-* [Page 2](page-2.md)
+* [지갑 생성 및 지갑 목록 보기](undefined.md)
