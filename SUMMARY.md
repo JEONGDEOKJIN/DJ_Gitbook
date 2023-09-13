@@ -2,9 +2,10 @@
 
 ## BlockChain
 
-* [🖇 P2P 방식 코드 이해하기](README.md)
+* [🖇 P2P 이해 하기 (feat. peer 접속 및 갱신, block 갱신 및 생성)](README.md)
 * [블록체인 기본 개념 요약](blockchain/undefined.md)
 * [최초의 제네시스 블록 (GENESIS)](blockchain/genesis.md)
+* [지갑 생성 및 지갑 목록 보기](blockchain/undefined-1.md)
 * [Index](blockchain/index.md)
 
 ## projects
@@ -29,7 +30,3 @@
   * [🗃 진행상황 정리](codingtest/\_lv0/undefined.md)
   * [230912\_코딩테스트](230912\_.md)
   * [230913 코테풀이](codingtest/\_lv0/230913.md)
-
-***
-
-* [지갑 생성 및 지갑 목록 보기](undefined.md)
