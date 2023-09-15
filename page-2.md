@@ -62,6 +62,8 @@ document.writeln(beasts.indexOf('123'));    // -1
 
 
 
+{% embed url="https://codepen.io/anotheryear-hm/pen/WNLERKJ?editors=1010" %}
+
 
 
 See the Pen [indexOf 메소드](https://codepen.io/anotheryear-hm/pen/WNLERKJ) by JeongDeokjin ([@anotheryear-hm](https://codepen.io/anotheryear-hm)) on [CodePen](https://codepen.io).
