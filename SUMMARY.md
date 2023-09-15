@@ -27,8 +27,8 @@
 ## codingtest
 
 * [프로그래머스\_Lv0](codingtest/\_lv0/README.md)
-  * [🗃 진행상황 정리](codingtest/\_lv0/undefined.md)
-  * [230912\_코딩테스트](230912\_.md)
-  * [230913 코테풀이](codingtest/\_lv0/230913.md)
-  * [230914\_코테풀이](codingtest/\_lv0/230914\_.md)
-  * [230915\_코딩테스트](codingtest/\_lv0/230915\_.md)
+  * [🗃 진행상황 정리](codingtest/\_lv0/undefined/README.md)
+    * [230912\_코딩테스트](codingtest/\_lv0/undefined/230912\_.md)
+    * [230913 코테풀이](codingtest/\_lv0/undefined/230913.md)
+    * [230914\_코테풀이](codingtest/\_lv0/undefined/230914\_.md)
+    * [230915\_코딩테스트](codingtest/\_lv0/undefined/230915\_.md)
