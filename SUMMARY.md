@@ -32,3 +32,8 @@
     * [230914\_코테풀이](codingtest/\_lv0/undefined/230914\_.md)
     * [230915\_코딩테스트](codingtest/\_lv0/undefined/230915\_.md)
     * [230918\_코딩테스트](codingtest/\_lv0/undefined/230918\_.md)
+
+***
+
+* [솔](undefined.md)
+* [ganache 환경에서 컨트랙트 배포하기 (feat. solidity, ethereum)](ganache-feat.-solidity-ethereum.md)
