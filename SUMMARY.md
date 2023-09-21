@@ -6,6 +6,7 @@
 * [최초의 제네시스 블록 (GENESIS)](blockchain/genesis.md)
 * [P2P 이해 하기 (feat. peer 접속 및 갱신, block 갱신 및 생성)](<README (1).md>)
 * [지갑 생성 및 지갑 목록 보기](blockchain/undefined-1.md)
+* [ganache 환경에서 컨트랙트 배포하기 (feat. solidity, ethereum)](blockchain/ganache-feat.-solidity-ethereum.md)
 
 ## projects
 
@@ -36,4 +37,3 @@
 ***
 
 * [솔](undefined.md)
-* [ganache 환경에서 컨트랙트 배포하기 (feat. solidity, ethereum)](ganache-feat.-solidity-ethereum.md)
