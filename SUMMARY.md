@@ -37,4 +37,4 @@
 ***
 
 * [솔](undefined.md)
-* [Page 2](page-2.md)
+* [관계 대수 & 관계 해석](and.md)
