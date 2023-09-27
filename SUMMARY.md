@@ -9,7 +9,7 @@
 * [ganache 환경에서 컨트랙트 배포하기 (feat. solidity, ethereum)](blockchain/ganache-feat.-solidity-ethereum.md)
 * [이더리움과 비트코인 비교해서 이해](blockchain/undefined-2.md)
 * [web3.eth.sendTransaction 이해하기](blockchain/web3.eth.sendtransaction.md)
-* [Page 5](blockchain/page-5.md)
+* [자바스크립트에서 스마트 컨트랙트 배포  및 Counter 증감(상태변수 증감)](blockchain/counter.md)
 * [Page 4](blockchain/page-4.md)
 * [Page 3](blockchain/page-3.md)
 * [Page 2](blockchain/page-2.md)
