@@ -2,16 +2,16 @@
 
 ## BlockChain
 
-* [블록체인 기본 개념 요약](README.md)
-* [최초의 제네시스 블록 (GENESIS)](blockchain/genesis.md)
-* [P2P 이해 하기 (feat. peer 접속 및 갱신, block 갱신 및 생성)](<README (1).md>)
-* [지갑 생성 및 지갑 목록 보기](blockchain/undefined-1.md)
-* [ganache 환경에서 컨트랙트 배포하기 (feat. solidity, ethereum)](blockchain/ganache-feat.-solidity-ethereum.md)
-* [이더리움과 비트코인 비교해서 이해](blockchain/undefined-2.md)
-* [web3.eth.sendTransaction 이해하기](blockchain/web3.eth.sendtransaction.md)
-* [자바스크립트에서 스마트 컨트랙트 배포  및 Counter 증감(상태변수 증감)](blockchain/counter.md)
-* [Page 4](blockchain/page-4.md)
-* [Page 3](blockchain/page-3.md)
+* [블록체인](README.md)
+  * [최초의 제네시스 블록 (GENESIS)](blockchain/undefined/genesis.md)
+  * [블록체인 기본 개념 요약](blockchain/undefined/undefined.md)
+  * [지갑 생성 및 지갑 목록 보기](blockchain/undefined/undefined-1.md)
+  * [P2P 이해 하기 (feat. peer 접속 및 갱신, block 갱신 및 생성)](blockchain/undefined/p2p-feat.-peer-block.md)
+* [이더리움](blockchain/undefined-1/README.md)
+  * [ganache 환경에서 컨트랙트 배포하기 (feat. solidity, ethereum)](blockchain/undefined-1/ganache-feat.-solidity-ethereum.md)
+  * [이더리움과 비트코인 비교해서 이해](blockchain/undefined-1/undefined.md)
+  * [web3.eth.sendTransaction 이해하기](blockchain/undefined-1/web3.eth.sendtransaction.md)
+  * [자바스크립트에서 스마트 컨트랙트 배포  및 Counter 증감(상태변수 증감)](blockchain/undefined-1/counter.md)
 * [Page 2](blockchain/page-2.md)
 * [Page](blockchain/page.md)
 
