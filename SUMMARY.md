@@ -12,7 +12,7 @@
   * [이더리움과 비트코인 비교해서 이해](blockchain/undefined-1/undefined.md)
   * [web3.eth.sendTransaction 이해하기](blockchain/undefined-1/web3.eth.sendtransaction.md)
   * [자바스크립트에서 스마트 컨트랙트 배포  및 Counter 증감(상태변수 증감)](blockchain/undefined-1/counter.md)
-* [Page 2](blockchain/page-2.md)
+* [React 에서 스마트 컨트랙트 배포 및 Counter 증감 및 송금](blockchain/react-counter.md)
 * [Page](blockchain/page.md)
 
 ## projects
