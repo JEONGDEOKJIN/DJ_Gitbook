@@ -45,3 +45,7 @@
 
 * [솔](undefined.md)
 * [관계 대수 & 관계 해석](and.md)
+
+## 정보처리기사 실기
+
+* [테스트](undefined-1/undefined.md)
