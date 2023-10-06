@@ -14,6 +14,7 @@
   * [자바스크립트에서 스마트 컨트랙트 배포  및 Counter 증감(상태변수 증감)](blockchain/undefined-1/counter.md)
   * [React 에서 스마트 컨트랙트 배포 및 Counter 증감 및 송금](blockchain/undefined-1/react-counter.md)
   * [트러플(truffle) 환경에서 컨트랙트 배포 하기](blockchain/undefined-1/truffle.md)
+  * [대체 비동기가 왜 문제가 되고, 어떻게 대처해야 하는지를 고민해봄](blockchain/undefined-1/undefined-1.md)
 * [Page](blockchain/page.md)
 
 ## projects
