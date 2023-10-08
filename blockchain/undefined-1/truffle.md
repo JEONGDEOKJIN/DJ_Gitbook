@@ -232,8 +232,31 @@ npm i ganache-cli
 npx ganache-cli
 ```
 
-\
 
+
+
+
+#### 1.5) truffle 환경 설정 ⭐⭐
+
+```js
+module.exports = {
+  networks: {
+    development: {
+      host: "127.0.0.1", // Localhost (default: none)
+      port: 8545, // Standard Ethereum port (default: none) | 가나쉬 포트 ✅
+      network_id: "*", // Any network (default: none)
+    },
+  },
+
+  compilers: {
+    solc: {
+      version: "0.8.13",     // 솔리디티 버전✅ | sol 파일에 적힌 버전과 맞아야 함
+    },
+  },
+};
+```
+
+![](https://i.imgur.com/bzUlhTE.png)
 
 #### 2) '컴파일된 파일' 을 가져와서, 배포(deploy) 준비
 
