@@ -206,9 +206,15 @@ npx truffle compile
 	# network 키 안에는 'CA 가 저장 될 예정⭐⭐'
 ```
 
-* abi : 이걸 통해서, 이제 solidity 를 컨트롤 해서, 이더리움 안에 있는 메서드를 실행하게 됨 (#📛 | 추가로 좀 더 학습 필요) ![](https://i.imgur.com/JP0u1Zm.png)
-* ca 가 들어갈 networks ![](https://i.imgur.com/Zrune0S.png)
-* ⭐⭐⭐ abi 의 '값' 만 가져와야 함 ![](https://i.imgur.com/K7jTDTF.png)
+*   abi : 이걸 통해서, 이제 solidity 를 컨트롤 해서, 이더리움 안에 있는 메서드를 실행하게 됨 (#📛 | 추가로 좀 더 학습 필요)&#x20;
+
+    <figure><img src="https://i.imgur.com/JP0u1Zm.png" alt=""><figcaption></figcaption></figure>
+*   ca 가 들어갈 networks&#x20;
+
+    <figure><img src="https://i.imgur.com/Zrune0S.png" alt=""><figcaption></figcaption></figure>
+*   ⭐⭐⭐ abi 의 '값' 만 가져와야 함&#x20;
+
+    <figure><img src="https://i.imgur.com/K7jTDTF.png" alt=""><figcaption></figcaption></figure>
 
 \
 
@@ -359,11 +365,17 @@ counter.setValue(20)
 counter.increment(1) 👉 counter.getValue() 하면, 👉 'BN { negative: 0, words: [ 1, <1 empty item> ], length: 1, red: null }' 이렇게 값이 나와 있음. 
 ```
 
-* truffle 이 실행되는 경로 ![](https://i.imgur.com/0sXXDTe.png)
-* counter.getValue() 실행 결과 ![](https://i.imgur.com/91bYEtu.png)
+*   truffle 이 실행되는 경로&#x20;
+
+    <figure><img src="https://i.imgur.com/0sXXDTe.png" alt=""><figcaption></figcaption></figure>
+*   counter.getValue() 실행 결과&#x20;
+
+    <figure><img src="https://i.imgur.com/91bYEtu.png" alt=""><figcaption></figcaption></figure>
 * 아래 세부 메소드 정의
   * setValue 없음
-  * increment() 있음. ![](https://i.imgur.com/DyaWZEJ.png)
+  *   increment() 있음.&#x20;
+
+      <figure><img src="https://i.imgur.com/DyaWZEJ.png" alt=""><figcaption></figcaption></figure>
 
 \
 
@@ -372,7 +384,9 @@ counter.increment(1) 👉 counter.getValue() 하면, 👉 'BN { negative: 0, wor
 
 #### 1) 테스트 코드 작성
 
-* 테스트 코드 작성 위치 ![](https://i.imgur.com/RtyqrpZ.png)
+*   테스트 코드 작성 위치&#x20;
+
+    <figure><img src="https://i.imgur.com/RtyqrpZ.png" alt=""><figcaption></figcaption></figure>
 
 #### 2) 테스트 코드 실행
 
@@ -475,8 +489,12 @@ src 폴더에 hooks, abi 폴더 만들기
 4) 이 Counter.json 에서 abi 키에 해당하는, [ ] 이 부분만 빼서 가지고 온다. 
 ```
 
-* abi 가져오기 ![](https://i.imgur.com/FtZ9hpp.png)
-* 위에서 만든 src > abi 폴더에 붙여넣기 ![](https://i.imgur.com/p5wuNcr.png)
+*   abi 가져오기&#x20;
+
+    <figure><img src="https://i.imgur.com/FtZ9hpp.png" alt=""><figcaption></figcaption></figure>
+*   위에서 만든 src > abi 폴더에 붙여넣기&#x20;
+
+    <figure><img src="https://i.imgur.com/p5wuNcr.png" alt=""><figcaption></figcaption></figure>
 
 \
 
