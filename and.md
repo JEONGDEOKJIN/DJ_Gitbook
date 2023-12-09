@@ -1,24 +1,6 @@
 # 관계 대수 & 관계 해석
 
-***
 
-createDate : 2023-09-07
-
-publish : 벨로그 blogTitle : reduce 메소드 publishURL : postDate :
-
-tags : #정처기,
-
-***
-
-***
-
-createDate : 2023-09-07
-
-isPublished : publish : blogTitle : publishURL : postDate :
-
-tags : #정처기
-
-***
 
 #### 관계 대수 기호 표현 모음
 

@@ -28,7 +28,6 @@
 * [230908\_코드를 어떻게 분석 하면 좋을까](temp/230908\_/README.md)
   * [230909 회고 방법 요약](temp/230908\_/230909.md)
   * [git book 업로드 테스트](temp/230908\_/readme.md)
-* [Page 1](temp/page-1.md)
 * [230908\_socket](temp/readme.md)
 * [230908\_블록체인\_p2p방식\_코드이해](temp/230908\_-\_p2p-\_.md)
 * [230909 ts-node 를 실행할 때, npx 를 사용하는 이유](temp/230909-ts-node-npx.md)
@@ -46,12 +45,11 @@
 
 ***
 
-* [솔](undefined.md)
 * [관계 대수 & 관계 해석](and.md)
 
 ## 정보처리기사 실기
 
-* [테스트](undefined-1/undefined.md)
+* [테스트](undefined/undefined.md)
 
 ***
 
