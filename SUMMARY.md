@@ -49,7 +49,7 @@
 
 ## 정보처리기사 실기
 
-* [테스트](undefined/undefined.md)
+* [SQL 테스트](undefined/sql.md)
 
 ***
 
