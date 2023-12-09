@@ -15,7 +15,7 @@
 * [4. 뼈대 만들기](next.js-13/4..md)
 * [5. 메타 데이터](next.js-13/5..md)
 * [6. 라우팅](next.js-13/6./README.md)
-  * [2. 라우팅](next.js-13/6./2..md)
+  * [라우팅 보충 스터디](next.js-13/6./undefined.md)
 * [7. single page application](next.js-13/7.-single-page-application.md)
 * [8. 정적 자원 사용하기](next.js-13/8..md)
 * [9. next.js 의 backend 기능](next.js-13/9.-next.js-backend.md)
