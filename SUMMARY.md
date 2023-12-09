@@ -43,14 +43,11 @@
     * [230915\_코딩테스트](codingtest/\_lv0/undefined/230915\_.md)
     * [230918\_코딩테스트](codingtest/\_lv0/undefined/230918\_.md)
 
-***
+## 정보처리기사
 
-* [관계 대수 & 관계 해석](and.md)
+* [SQL 테스트](undefined-1/undefined.md)
+* [관계 대수 & 관계 해석](undefined/and.md)
 
-## 정보처리기사 실기
+## Next
 
-* [SQL 테스트](undefined/sql.md)
-
-***
-
-* [Page 2](page-2.md)
+* [1. 설치, 환경 설정 및 보일러 플레이트](next/1..md)
