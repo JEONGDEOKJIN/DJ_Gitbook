@@ -75,3 +75,9 @@
 
 * [SQL 테스트](undefined-1/undefined.md)
 * [관계 대수 & 관계 해석](undefined/and.md)
+
+## 면접 준비
+
+* [231209\_예상면접 질문 공부](undefined-1/231209\_.md)
+* [Page 3](undefined-1/page-3.md)
+* [Page 1](undefined-1/page-1.md)
