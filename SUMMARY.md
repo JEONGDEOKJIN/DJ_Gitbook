@@ -63,21 +63,15 @@
 
 ## codingtest
 
-* [프로그래머스\_Lv0](codingtest/\_lv0/README.md)
-  * [🗃 진행상황 정리](codingtest/\_lv0/undefined/README.md)
-    * [230912\_코딩테스트](codingtest/\_lv0/undefined/230912\_.md)
-    * [230913 코테풀이](codingtest/\_lv0/undefined/230913.md)
-    * [230914\_코테풀이](codingtest/\_lv0/undefined/230914\_.md)
-    * [230915\_코딩테스트](codingtest/\_lv0/undefined/230915\_.md)
-    * [230918\_코딩테스트](codingtest/\_lv0/undefined/230918\_.md)
+* [프로그래머스](codingtest/undefined/README.md)
+  * [🗃 진행상황 정리](codingtest/undefined/undefined/README.md)
+    * [230912\_코딩테스트](codingtest/undefined/undefined/230912\_.md)
+    * [230913 코테풀이](codingtest/undefined/undefined/230913.md)
+    * [230914\_코테풀이](codingtest/undefined/undefined/230914\_.md)
+    * [230915\_코딩테스트](codingtest/undefined/undefined/230915\_.md)
+    * [230918\_코딩테스트](codingtest/undefined/undefined/230918\_.md)
 
 ## 정보처리기사
 
 * [SQL 테스트](undefined-1/undefined.md)
 * [관계 대수 & 관계 해석](undefined/and.md)
-
-## 면접 준비
-
-* [231209\_예상면접 질문 공부](undefined-1/231209\_.md)
-* [Page 3](undefined-1/page-3.md)
-* [Page 1](undefined-1/page-1.md)
